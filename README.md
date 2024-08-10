@@ -69,9 +69,24 @@ this project helps in:
 
 To get started with the Book Social Network project, follow the setup instructions in the respective directories:
 
-- [Backend Setup Instructions](/bookNest/README.md)
+- [Backend Setup Instructions]
+  Setup Instructions
+    To set up the backend of the Book Social Network project, follow these steps:
+
+    Clone the repository:
+       git clone https://github.com/surajsajwan00/BookNest.git
+    Run the docker-compose file
+      docker-compose up -d
+    Navigate to the bookNest directory:
+      cd book-social-network
+    Install dependencies (assuming Maven is installed):
+      mvn clean install
+    Run the application but first replace the x.x.x with the current version from the pom.xml file
+      java -jar target/book-network-api-x.x.x.jar
+    Access the API documentation using Swagger UI:
+    Open a web browser and go to `http://localhost:8090/swagger-ui/index.html.
 - [Frontend Setup Instructions](booknest-ui/README.md)
 
 ## Contributors
 
-- [Surasinghsajwan](https://github.com/surajsajwan00)
+- [Surajsinghsajwan](https://github.com/surajsajwan00)
