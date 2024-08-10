@@ -90,6 +90,26 @@ This document provides instructions for setting up the backend of the BookNest p
    ```bash
    git clone https://github.com/surajsajwan00/BookNest.git
 
+2. **Run Docker Compose**
+
+   Navigate to the root directory of the project and run Docker Compose to set up the required containers:
+
+   ```bash
+   docker-compose up -d
+
+3. **Navigate to the book-social-network directory**
+   ```bash
+   cd book-social-network
+
+4. **Install dependencies (assuming Maven is installed)**
+   ```bash
+    mvn clean install
+
+5. **Run the application**
+
+6. **Access the API documentation using Swagger UI**
+   Open a web browser and go to `http://localhost:8088/swagger-ui/index.html.
+
 - [Frontend Setup Instructions](booknest-ui/README.md)
 
 ## Contributors
