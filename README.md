@@ -6,7 +6,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
     - [Backend (bookNest)](#backend-bookNest)
-    - [Frontend (bookNest-ui)](#frontend-booknest-ui)
+    - [Frontend (booknest-ui)](#frontend-booknest-ui)
 - [Learning Objectives](#learning-objectives)
 - [Getting Started](#getting-started)
 
