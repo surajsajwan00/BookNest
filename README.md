@@ -112,6 +112,6 @@ This document provides instructions for setting up the backend of the BookNest p
 
 - [Frontend Setup Instructions](booknest-ui/README.md)
 
-## Contributors
+## Author
 
 - Suraj singh sajwan - [GitHub](https://github.com/surajsajwan00)
